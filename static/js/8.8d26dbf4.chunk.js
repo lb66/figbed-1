@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-figbed"]=this["webpackJsonpreact-figbed"]||[]).push([[8],{366:function(e,t,n){"use strict";n.r(t);var a=n(0),r=n.n(a);t.default=function(){return r.a.createElement(r.a.Fragment,null,"\u5173\u4e8e")}}}]);
+//# sourceMappingURL=8.8d26dbf4.chunk.js.map
